@@ -5,8 +5,8 @@ toc: false
 
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-  {{< card link="test1" title="Test1" icon="adjustments" >}}
-  {{< card link="test2" title="Test2" icon="hand" >}}
+  {{< card link="docs" title="Get to know BetterGPT" icon="cursor-click" >}}
+  {{< card link="about" title="Onboarding" icon="clipboard-check" >}}
+  {{< card link="test1" title="Advanced Usage" icon="lightning-bolt" >}}
+  {{< card link="test2" title="Miscellaneous" icon="collection" >}}
 {{< /cards >}}
