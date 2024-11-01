@@ -1,5 +1,5 @@
 ---
-title: BetterGPT Docomentation
+title: BetterGPT Documentation
 toc: false
 ---
 
