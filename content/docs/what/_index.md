@@ -18,4 +18,4 @@ BetterGPT essentially consists of three different components to provide you with
 - unlimited file uploads
 - customized models for learning
 - organize chats by pinning them
--
+- Available on all devices
