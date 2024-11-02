@@ -1,9 +1,11 @@
 ---
 title: Getting to know BetterGPT
 weight: 100
+type: docs
 ---
 ## What is BetterGPT?
 ChatGPT and similar platforms often restrict free users with limitations and charge high prices for premium features.
+
 BetterGPT is built on the belief that everyone should have access to the full potential of AI chatbots. We offer a feature-rich platform with (almost) no restrictions, allowing you to explore effective learning, creative writing, and more without limitations.
 
 ## How does it work?
