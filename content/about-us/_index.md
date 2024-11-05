@@ -6,7 +6,7 @@ type: docs
 ## What is BetterGPT?
 ChatGPT and similar platforms often restrict free users with limitations and charge high prices for premium features.
 
-BetterGPT is built on the belief that everyone should have access to the full potential of AI chatbots. We offer a feature-rich platform with [(almost) no restrictions](/what/limitations/), allowing you to explore effective learning, creative writing, and more without limitations.
+BetterGPT is built on the belief that everyone should have access to the full potential of AI chatbots. We offer a [feature-rich](/about-us/features/) platform with [(almost) no restrictions](/about-us/limitations/), allowing you to explore effective learning, creative writing, and more.
 
 ## How does it work?
 BetterGPT essentially consists of three different components to provide you with a seamless experience.

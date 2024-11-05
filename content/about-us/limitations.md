@@ -10,8 +10,9 @@ type: docs
 - Limits reset at midnight UTC
 
 ## Rate Limiting
-- Maximum of 15 messages per minute per flash-model
-- Maximum of 2 messages per minute per pro-model
+- Maximum of 15 messages per minute per flash model
+- Maximum of 2 messages per minute per pro model
+- Maximum of 1M tokens per minute
 - Exceeding this limit will result in a temporary block
 
 ## File Handling
@@ -19,12 +20,11 @@ type: docs
   - Consider compressing images before upload
 - Maximum files per message: 12 files
 - For complex documents containing more than just text, using images is recommended over PDF files
-- Supported file formats: PDF, PNG, JPEG, JPG
+- Supported file formats: ~~PDF~~ (currently unsupported), PNG, JPEG, JPG
 - Images should be clear and legible for best results
 
 ## Model Constraints
-- Google models have a context window of 1M tokens
+- Google models have a context window of 1M tokens for flash models and 2M tokens for pro models
   - Approximately 750,000 English words
 - Response generation typically takes 2-10 seconds
   - For best performance, break down large documents into smaller chunks
-- Multi-language support available

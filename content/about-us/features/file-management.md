@@ -2,14 +2,13 @@
 title: File Management
 type: docs
 ---
-
 ## Upload Capabilities
 - Unlimited file uploads
 - Maximum file size: 3MB per file
 - Up to 12 files per message
 
 ## Supported Formats
-- Document formats: PDF
+- ~~Document formats: PDF~~ (Currently out of order)
 - Image formats: PNG, JPEG, JPG
 - Optimal handling of text-based content
 

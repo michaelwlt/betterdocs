@@ -7,7 +7,7 @@ At BetterGPT, we believe in complete transparency about how we operate and maint
 ## Our Core Principles
 
 ### Community-First Approach
-- "Pay what you want" model with a minimal 2€ monthly contribution
+- "Pay what you want" model with a no minimum contribution
 - No premium tiers or hidden costs - everyone gets full access
 - Community donations support ongoing operations
 - Transparent communication about costs and challenges
@@ -16,17 +16,16 @@ At BetterGPT, we believe in complete transparency about how we operate and maint
 We maintain low operational costs through:
 - Strategic use of free service tiers from major providers
 - Efficient infrastructure optimization
-- Small but dedicated development team
 - Leveraging open-source technologies
-- Low user engagement rates allowing for competitive flat rates
+- Low user engagement rates allow the server run on free tier offers
 
 ## Breaking Down Our Costs
 
 ### Monthly Operating Expenses
 | Service | Approximate Cost per Month |
 |---------|-----------------|
-| Server Hosting | 6€ |
-| API Usage | Variable |
+| Server Hosting | 0€ |
+| API Usage | 0€ |
 | Domain & SSL | 1.6€ |
 | Development | Volunteer-based |
 
